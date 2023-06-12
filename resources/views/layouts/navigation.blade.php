@@ -20,8 +20,8 @@
 
             <!--new buuton-->
             <div class="flex flex-col justify-center">
-                <a href={{route('create')}} class="ml-3">
-                    Support ticket
+                <a href={{route('ticket.index')}} class="ml-3">
+                    Tiketi za podršku
                 </a>
 
             </div>
